@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Parisienne&display=swap");
+.App {
+  text-align: center;
+}
+img {
+  max-width: 800px;
+}
+body {
+  background: rgb(142, 132, 189);
+  background: linear-gradient(
+    90deg,
+    rgba(142, 132, 189, 1) 0%,
+    rgba(237, 237, 250, 1) 0%,
+    rgba(235, 131, 189, 1) 29%,
+    rgba(133, 213, 242, 1) 55%,
+    rgba(0, 212, 255, 1) 77%,
+    rgba(141, 202, 217, 1) 99%
+  );
+}
